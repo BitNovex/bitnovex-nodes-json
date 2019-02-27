@@ -1,0 +1,22 @@
+{
+  "nodes": [
+    {
+      "name": "Seed Nº1",
+      "url": "85.214.158.156",
+      "port": 35223,
+      "ssl": false
+    },
+    {
+      "name": "SuperBlockchain Nº1",
+      "url": "superblockchain.con-ip.com",
+      "port": 35223,
+      "ssl": false
+    },
+    {
+      "name": "SuperBlockchain Nº2",
+      "url": "superblockchain.con-ip.com",
+      "port": 35225,
+      "ssl": false
+    }
+  ]
+}
