@@ -7,13 +7,13 @@
       "ssl": false
     },
     {
-      "name": "SuperBlockchain Nº1",
+      "name": "SuperBlockchain Node Nº1",
       "url": "superblockchain.con-ip.com",
       "port": 35223,
       "ssl": false
     },
     {
-      "name": "SuperBlockchain Nº2",
+      "name": "SuperBlockchain Node Nº2",
       "url": "superblockchain.con-ip.com",
       "port": 35225,
       "ssl": false
